@@ -1,23 +1,23 @@
-# Odin Recipes  
+# Odin Recipes
 
-This is a simple project from [The Odin Project](https://www.theodinproject.com/) where I’m building a basic recipe website using only **HTML**.  
+This is a simple **static HTML project** from The Odin Project, where I’m building a basic multi-page recipe website. The site is built using **HTML** with **basic CSS styles** for layout and presentation.
 
-The site starts with a main index page that links to individual recipe pages. Each recipe page includes:  
-- A title and an image of the dish  
-- A short description  
-- An ingredient list  
-- Step-by-step instructions  
-- Links for easy navigation back to the home page  
+## Project Overview
 
-## What I’m Learning  
+- Main index page linking to individual recipe pages
+- Each recipe page includes:
+  - A title and image of the dish
+  - A short description
+  - An ingredient list
+  - Step-by-step instructions
+  - Navigation links back to the home page
 
-By working on this project, I’m practicing the core building blocks of web development:  
-- Writing clean and semantic HTML  
-- Structuring content with headings, paragraphs, and lists  
-- Linking multiple pages together with relative paths  
-- Organizing files into directories  
-- Building a small multi-page website from scratch  
+## What I’m Learning
 
-This is my first step in learning web development, and while it’s simple, it’s a solid foundation before moving on to CSS and JavaScript.  
+This project helps practice fundamental web development skills:
 
----
+- Writing clean, semantic HTML
+- Organizing content with headings, paragraphs, and lists
+- Linking multiple pages with relative paths
+- Applying basic CSS for layout, spacing, and simple styling
+- Structuring files into directories for a small multi-page website
